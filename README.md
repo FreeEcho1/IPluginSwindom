@@ -9,6 +9,9 @@
 2. : クラスを作成して「Swindom.IPluginSwindom.IPlugin」を継承します。
 3. : オーバーライドして必要な処理を記述します。
 <br>
+[サンプルプログラム]<br>
+<a href="https://github.com/FreeEcho1/PluginSample1">https://github.com/FreeEcho1/PluginSample1</a><br>
+<br>
 [IPluginを継承したクラスの中身]<br>
  - PluginName<br>
 プラグインの名前です。<br>
