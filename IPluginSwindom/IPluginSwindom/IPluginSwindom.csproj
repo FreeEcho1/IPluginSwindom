@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <Authors>FreeEcho</Authors>
+    <Product>IPluginSwindom</Product>
+    <Copyright>© 2023 FreeEcho</Copyright>
+  </PropertyGroup>
+
+</Project>
