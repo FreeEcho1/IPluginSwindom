@@ -52,8 +52,10 @@ public interface IPlugin
     /// 初期化
     /// </summary>
     /// <param name="settingDirectory">設定ファイルのディレクトリ</param>
+    /// <param name="language">言語</param>
     void Initialize(
-        string settingDirectory
+        string settingDirectory,
+        string language
         );
     /// <summary>
     /// 破棄
