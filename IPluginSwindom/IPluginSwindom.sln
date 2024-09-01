@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.33516.290
+VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPluginSwindom", "IPluginSwindom\IPluginSwindom.csproj", "{701EB133-DEBD-4CAD-B115-0FFF719EA0C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPluginSwindom", "IPluginSwindom\IPluginSwindom.csproj", "{92DA329C-69D6-405C-9805-32702A4AE461}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{701EB133-DEBD-4CAD-B115-0FFF719EA0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{701EB133-DEBD-4CAD-B115-0FFF719EA0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{701EB133-DEBD-4CAD-B115-0FFF719EA0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{701EB133-DEBD-4CAD-B115-0FFF719EA0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DA329C-69D6-405C-9805-32702A4AE461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DA329C-69D6-405C-9805-32702A4AE461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DA329C-69D6-405C-9805-32702A4AE461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DA329C-69D6-405C-9805-32702A4AE461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {33419B58-23A3-4582-AC5F-352FA639537A}
+		SolutionGuid = {57F6EC4F-8608-4CDF-958A-B10B1E17E03F}
 	EndGlobalSection
 EndGlobal
